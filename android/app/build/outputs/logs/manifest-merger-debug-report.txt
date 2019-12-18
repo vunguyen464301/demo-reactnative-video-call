@@ -1,0 +1,518 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/anhvu/Documents/My Job/Namtech/demo/demo-expo/android/app/src/main/AndroidManifest.xml:1:1-60:12
+INJECTED from /home/anhvu/Documents/My Job/Namtech/demo/demo-expo/android/app/src/main/AndroidManifest.xml:1:1-60:12
+INJECTED from /home/anhvu/Documents/My Job/Namtech/demo/demo-expo/android/app/src/main/AndroidManifest.xml:1:1-60:12
+INJECTED from /home/anhvu/Documents/My Job/Namtech/demo/demo-expo/android/app/src/main/AndroidManifest.xml:1:1-60:12
+MERGED from [:react-native-webrtc] /home/anhvu/Documents/My Job/Namtech/demo/demo-expo/node_modules/react-native-webrtc/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-screens] /home/anhvu/Documents/My Job/Namtech/demo/demo-expo/node_modules/react-native-screens/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-reanimated] /home/anhvu/Documents/My Job/Namtech/demo/demo-expo/node_modules/react-native-reanimated/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-gesture-handler] /home/anhvu/Documents/My Job/Namtech/demo/demo-expo/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:expo-permissions] /home/anhvu/Documents/My Job/Namtech/demo/demo-expo/node_modules/expo-permissions/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:unimodules-react-native-adapter] /home/anhvu/Documents/My Job/Namtech/demo/demo-expo/node_modules/@unimodules/react-native-adapter/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [com.facebook.react:react-native:0.61.5] /home/anhvu/.gradle/caches/transforms-1/files-1.1/jetified-react-native-0.61.5.aar/616f869c89f58971ad827d4b750435f2/AndroidManifest.xml:2:1-13:12
+MERGED from [androidx.appcompat:appcompat:1.1.0-rc01] /home/anhvu/.gradle/caches/transforms-1/files-1.1/appcompat-1.1.0-rc01.aar/9bc9e5568bc9706d1df717db4bb4e03a/AndroidManifest.xml:17:1-24:12
+MERGED from [:expo-file-system] /home/anhvu/Documents/My Job/Namtech/demo/demo-expo/node_modules/expo-file-system/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-30:12
+MERGED from [:expo-location] /home/anhvu/Documents/My Job/Namtech/demo/demo-expo/node_modules/expo-location/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-21:12
+MERGED from [com.google.android.gms:play-services-location:16.0.0] /home/anhvu/.gradle/caches/transforms-1/files-1.1/jetified-play-services-location-16.0.0.aar/11326f0f330838699f960eead69a5c18/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /home/anhvu/.gradle/caches/transforms-1/files-1.1/jetified-play-services-base-16.0.1.aar/966ed1781dbbdc0dd1c25bab590c108a/AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-places-placereport:16.0.0] /home/anhvu/.gradle/caches/transforms-1/files-1.1/play-services-places-placereport-16.0.0.aar/85f2c9ac54e510e1a8142d47d392d972/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /home/anhvu/.gradle/caches/transforms-1/files-1.1/jetified-play-services-tasks-16.0.1.aar/10cfa21a3b376df837020427cc1a7546/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] /home/anhvu/.gradle/caches/transforms-1/files-1.1/jetified-play-services-basement-16.0.1.aar/576b25a496bca1ae71ed127134c46549/AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /home/anhvu/.gradle/caches/transforms-1/files-1.1/legacy-support-v4-1.0.0.aar/7dbba4e73e761658cbd2acbf850490ee/AndroidManifest.xml:17:1-22:12
+MERGED from [:expo-web-browser] /home/anhvu/Documents/My Job/Namtech/demo/demo-expo/node_modules/expo-web-browser/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.browser:browser:1.0.0] /home/anhvu/.gradle/caches/transforms-1/files-1.1/browser-1.0.0.aar/3763351de588b7e05e12039e7bd735b3/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/anhvu/.gradle/caches/transforms-1/files-1.1/legacy-support-core-ui-1.0.0.aar/0ab9e0e9cc4f5eb58660694a4f72ebef/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.1.0-alpha02] /home/anhvu/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-1.1.0-alpha02.aar/45c540635c200afd0d245892e266d17c/AndroidManifest.xml:17:1-24:12
+MERGED from [:expo-app-loader-provider] /home/anhvu/Documents/My Job/Namtech/demo/demo-expo/node_modules/expo-app-loader-provider/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:expo-constants] /home/anhvu/Documents/My Job/Namtech/demo/demo-expo/node_modules/expo-constants/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:expo-error-recovery] /home/anhvu/Documents/My Job/Namtech/demo/demo-expo/node_modules/expo-error-recovery/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:expo-font] /home/anhvu/Documents/My Job/Namtech/demo/demo-expo/node_modules/expo-font/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:expo-keep-awake] /home/anhvu/Documents/My Job/Namtech/demo/demo-expo/node_modules/expo-keep-awake/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:expo-linear-gradient] /home/anhvu/Documents/My Job/Namtech/demo/demo-expo/node_modules/expo-linear-gradient/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:expo-sqlite] /home/anhvu/Documents/My Job/Namtech/demo/demo-expo/node_modules/expo-sqlite/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:unimodules-barcode-scanner-interface] /home/anhvu/Documents/My Job/Namtech/demo/demo-expo/node_modules/unimodules-barcode-scanner-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:unimodules-camera-interface] /home/anhvu/Documents/My Job/Namtech/demo/demo-expo/node_modules/unimodules-camera-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:unimodules-constants-interface] /home/anhvu/Documents/My Job/Namtech/demo/demo-expo/node_modules/unimodules-constants-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:unimodules-face-detector-interface] /home/anhvu/Documents/My Job/Namtech/demo/demo-expo/node_modules/unimodules-face-detector-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:unimodules-file-system-interface] /home/anhvu/Documents/My Job/Namtech/demo/demo-expo/node_modules/unimodules-file-system-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:unimodules-font-interface] /home/anhvu/Documents/My Job/Namtech/demo/demo-expo/node_modules/unimodules-font-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:unimodules-permissions-interface] /home/anhvu/Documents/My Job/Namtech/demo/demo-expo/node_modules/unimodules-permissions-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:unimodules-task-manager-interface] /home/anhvu/Documents/My Job/Namtech/demo/demo-expo/node_modules/unimodules-task-manager-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:unimodules-core] /home/anhvu/Documents/My Job/Namtech/demo/demo-expo/node_modules/@unimodules/core/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:unimodules-image-loader-interface] /home/anhvu/Documents/My Job/Namtech/demo/demo-expo/node_modules/unimodules-image-loader-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:unimodules-sensors-interface] /home/anhvu/Documents/My Job/Namtech/demo/demo-expo/node_modules/unimodules-sensors-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [org.webkit:android-jsc:r245459] /home/anhvu/.gradle/caches/transforms-1/files-1.1/android-jsc-r245459.aar/80abab67cd9dbad20d2cbf548baeadfc/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.transition:transition:1.1.0] /home/anhvu/.gradle/caches/transforms-1/files-1.1/transition-1.1.0.aar/0b6c8754e197b375851ad865461ef5db/AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.bumptech.glide:glide:4.9.0] /home/anhvu/.gradle/caches/transforms-1/files-1.1/jetified-glide-4.9.0.aar/bd6aac3135105abc1f70684b270a90e5/AndroidManifest.xml:2:1-12:12
+MERGED from [androidx.fragment:fragment:1.1.0-rc01] /home/anhvu/.gradle/caches/transforms-1/files-1.1/fragment-1.1.0-rc01.aar/f71b265090afddfbb83657121abd1e09/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0-rc01] /home/anhvu/.gradle/caches/transforms-1/files-1.1/appcompat-resources-1.1.0-rc01.aar/7c0fb7d5988875ced08217a1ec70a40d/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/anhvu/.gradle/caches/transforms-1/files-1.1/drawerlayout-1.0.0.aar/fe8c740a52f0313c9df7cbe6558b9855/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/anhvu/.gradle/caches/transforms-1/files-1.1/viewpager-1.0.0.aar/8570c75ff46f543dfcd5e3432a438a32/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/anhvu/.gradle/caches/transforms-1/files-1.1/legacy-support-core-utils-1.0.0.aar/2af0e861dcf95a1fa7f9a4cac2cb00d7/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /home/anhvu/.gradle/caches/transforms-1/files-1.1/loader-1.0.0.aar/074e641cfb3b6812a4e919fa2849c3cc/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0-rc01] /home/anhvu/.gradle/caches/transforms-1/files-1.1/activity-1.0.0-rc01.aar/9b576b55227584df55c2b607e2dc3c56/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0-rc01] /home/anhvu/.gradle/caches/transforms-1/files-1.1/vectordrawable-animated-1.1.0-rc01.aar/016ed07469a02056fa9024d37f08fa72/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0-rc01] /home/anhvu/.gradle/caches/transforms-1/files-1.1/vectordrawable-1.1.0-rc01.aar/b0595171e53a2930a1602d1669033063/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /home/anhvu/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-1.0.0.aar/dbafadb14b489d4ff256257be4496b25/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/anhvu/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-1.0.0.aar/ff8ed2e3005e681dbee97f0e7af482f4/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /home/anhvu/.gradle/caches/transforms-1/files-1.1/customview-1.0.0.aar/ac66f9688d1529bfdc9b86bffeec3dca/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.media:media:1.0.0] /home/anhvu/.gradle/caches/transforms-1/files-1.1/media-1.0.0.aar/427e46f92b94ba4625f44c6faa848915/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/anhvu/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-1.0.0.aar/9bca51a77929fea95762ab821674919c/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.1.0-rc01] /home/anhvu/.gradle/caches/transforms-1/files-1.1/core-1.1.0-rc01.aar/04f682db9e1689bcc159fd8b83912fa8/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/anhvu/.gradle/caches/transforms-1/files-1.1/cursoradapter-1.0.0.aar/c09e630e0f1bcc6f76eb8f54d8827a29/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/anhvu/.gradle/caches/transforms-1/files-1.1/interpolator-1.0.0.aar/327789093529684fe17ccf1dddb33035/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0-rc01] /home/anhvu/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.1.0-rc01.aar/6dfa3e5692d38e6480ce29c82e5486b1/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0-rc01] /home/anhvu/.gradle/caches/transforms-1/files-1.1/lifecycle-runtime-2.1.0-rc01.aar/de5fa565a17a97c51ffae6e33f7cc408/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0-rc01] /home/anhvu/.gradle/caches/transforms-1/files-1.1/lifecycle-viewmodel-2.1.0-rc01.aar/2cc1ae4b6c74e4e1050e085bcd69ec0b/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.0.0-rc01] /home/anhvu/.gradle/caches/transforms-1/files-1.1/savedstate-1.0.0-rc01.aar/011704de6a5986c180e831bc53030a47/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/anhvu/.gradle/caches/transforms-1/files-1.1/documentfile-1.0.0.aar/2544feeaea017ddba34cef4076b42c86/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/anhvu/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-1.0.0.aar/744c34da037cdfd034441b4d7dc141ee/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /home/anhvu/.gradle/caches/transforms-1/files-1.1/print-1.0.0.aar/490e6287d6cdf2eae142e6e17ee33d2f/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/anhvu/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-2.0.0.aar/8e98ead1e8f8a21538a088c7070007fc/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/anhvu/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-core-2.0.0.aar/1a1192ffbb283bb36eb77a4d906e99b5/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/anhvu/.gradle/caches/transforms-1/files-1.1/core-runtime-2.0.0.aar/1382deeb57f26ef6a8c503f9d4b00b24/AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] /home/anhvu/.gradle/caches/transforms-1/files-1.1/jetified-gifdecoder-4.9.0.aar/ddd180662bbe70eca46401b7aece840c/AndroidManifest.xml:2:1-11:12
+MERGED from [com.facebook.fresco:fresco:2.0.0] /home/anhvu/.gradle/caches/transforms-1/files-1.1/fresco-2.0.0.aar/4df3610d0ec38cc3339cdd361db2c7bf/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /home/anhvu/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-2.0.0.aar/e16ab5eec670987565ca68235b6b99cb/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:drawee:2.0.0] /home/anhvu/.gradle/caches/transforms-1/files-1.1/drawee-2.0.0.aar/dfe4bdd3567168b45af952914fe09580/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] /home/anhvu/.gradle/caches/transforms-1/files-1.1/nativeimagefilters-2.0.0.aar/23527acc3428f0d6b40413e5bf32e977/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] /home/anhvu/.gradle/caches/transforms-1/files-1.1/imagepipeline-2.0.0.aar/c645125ea181088d2fb44276c35efaf2/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] /home/anhvu/.gradle/caches/transforms-1/files-1.1/nativeimagetranscoder-2.0.0.aar/c36a80d109245385ff2dd3efe16c0b88/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] /home/anhvu/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-2.0.0.aar/ca31b6c30d2100aa474bb0d654736838/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.6.0] /home/anhvu/.gradle/caches/transforms-1/files-1.1/soloader-0.6.0.aar/5e57c43b809a5c6af45c292508ae3731/AndroidManifest.xml:2:1-13:12
+MERGED from [io.nlopez.smartlocation:library:3.2.11] /home/anhvu/.gradle/caches/transforms-1/files-1.1/jetified-library-3.2.11.aar/9585bb5ed4a0898379029c71479d44cf/AndroidManifest.xml:2:1-30:12
+MERGED from [com.facebook.fresco:fbcore:2.0.0] /home/anhvu/.gradle/caches/transforms-1/files-1.1/jetified-fbcore-2.0.0.aar/4b2c7b6db2342580f5c6335874f0e061/AndroidManifest.xml:2:1-9:12
+INJECTED from /home/anhvu/Documents/My Job/Namtech/demo/demo-expo/android/app/src/main/AndroidManifest.xml:1:1-60:12
+INJECTED from /home/anhvu/Documents/My Job/Namtech/demo/demo-expo/android/app/src/main/AndroidManifest.xml:1:1-60:12
+INJECTED from /home/anhvu/Documents/My Job/Namtech/demo/demo-expo/android/app/src/main/AndroidManifest.xml:1:1-60:12
+	package
+		ADDED from /home/anhvu/Documents/My Job/Namtech/demo/demo-expo/android/app/src/main/AndroidManifest.xml:2:5-20
+		INJECTED from /home/anhvu/Documents/My Job/Namtech/demo/demo-expo/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/anhvu/Documents/My Job/Namtech/demo/demo-expo/android/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/anhvu/Documents/My Job/Namtech/demo/demo-expo/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/anhvu/Documents/My Job/Namtech/demo/demo-expo/android/app/src/main/AndroidManifest.xml:1:1-60:12
+		INJECTED from /home/anhvu/Documents/My Job/Namtech/demo/demo-expo/android/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/anhvu/Documents/My Job/Namtech/demo/demo-expo/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/anhvu/Documents/My Job/Namtech/demo/demo-expo/android/app/src/main/AndroidManifest.xml:1:1-60:12
+		INJECTED from /home/anhvu/Documents/My Job/Namtech/demo/demo-expo/android/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/anhvu/Documents/My Job/Namtech/demo/demo-expo/android/app/src/main/AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /home/anhvu/Documents/My Job/Namtech/demo/demo-expo/android/app/src/main/AndroidManifest.xml:4:5-67
+MERGED from [:expo-file-system] /home/anhvu/Documents/My Job/Namtech/demo/demo-expo/node_modules/expo-file-system/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:12:5-67
+MERGED from [:expo-file-system] /home/anhvu/Documents/My Job/Namtech/demo/demo-expo/node_modules/expo-file-system/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:12:5-67
+	android:name
+		ADDED from /home/anhvu/Documents/My Job/Namtech/demo/demo-expo/android/app/src/main/AndroidManifest.xml:4:22-64
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from /home/anhvu/Documents/My Job/Namtech/demo/demo-expo/android/app/src/main/AndroidManifest.xml:5:5-77
+	android:name
+		ADDED from /home/anhvu/Documents/My Job/Namtech/demo/demo-expo/android/app/src/main/AndroidManifest.xml:5:22-75
+uses-permission#android.permission.WAKE_LOCK
+ADDED from /home/anhvu/Documents/My Job/Namtech/demo/demo-expo/android/app/src/main/AndroidManifest.xml:11:1-64
+	android:name
+		ADDED from /home/anhvu/Documents/My Job/Namtech/demo/demo-expo/android/app/src/main/AndroidManifest.xml:11:18-61
+uses-feature#android.hardware.camera
+ADDED from /home/anhvu/Documents/My Job/Namtech/demo/demo-expo/android/app/src/main/AndroidManifest.xml:14:1-56
+	android:name
+		ADDED from /home/anhvu/Documents/My Job/Namtech/demo/demo-expo/android/app/src/main/AndroidManifest.xml:14:15-53
+uses-feature#android.hardware.camera.autofocus
+ADDED from /home/anhvu/Documents/My Job/Namtech/demo/demo-expo/android/app/src/main/AndroidManifest.xml:15:1-65
+	android:name
+		ADDED from /home/anhvu/Documents/My Job/Namtech/demo/demo-expo/android/app/src/main/AndroidManifest.xml:15:15-63
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /home/anhvu/Documents/My Job/Namtech/demo/demo-expo/android/app/src/main/AndroidManifest.xml:17:1-74
+MERGED from [io.nlopez.smartlocation:library:3.2.11] /home/anhvu/.gradle/caches/transforms-1/files-1.1/jetified-library-3.2.11.aar/9585bb5ed4a0898379029c71479d44cf/AndroidManifest.xml:13:5-79
+MERGED from [io.nlopez.smartlocation:library:3.2.11] /home/anhvu/.gradle/caches/transforms-1/files-1.1/jetified-library-3.2.11.aar/9585bb5ed4a0898379029c71479d44cf/AndroidManifest.xml:13:5-79
+	android:name
+		ADDED from /home/anhvu/Documents/My Job/Namtech/demo/demo-expo/android/app/src/main/AndroidManifest.xml:17:18-72
+uses-permission#android.permission.MANAGE_DOCUMENTS
+ADDED from /home/anhvu/Documents/My Job/Namtech/demo/demo-expo/android/app/src/main/AndroidManifest.xml:20:5-75
+	android:name
+		ADDED from /home/anhvu/Documents/My Job/Namtech/demo/demo-expo/android/app/src/main/AndroidManifest.xml:20:22-72
+uses-permission#android.permission.READ_INTERNAL_STORAGE
+ADDED from /home/anhvu/Documents/My Job/Namtech/demo/demo-expo/android/app/src/main/AndroidManifest.xml:21:5-80
+	android:name
+		ADDED from /home/anhvu/Documents/My Job/Namtech/demo/demo-expo/android/app/src/main/AndroidManifest.xml:21:22-77
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from /home/anhvu/Documents/My Job/Namtech/demo/demo-expo/android/app/src/main/AndroidManifest.xml:22:5-75
+	android:name
+		ADDED from /home/anhvu/Documents/My Job/Namtech/demo/demo-expo/android/app/src/main/AndroidManifest.xml:22:22-72
+uses-permission#android.permission.USE_FINGERPRINT
+ADDED from /home/anhvu/Documents/My Job/Namtech/demo/demo-expo/android/app/src/main/AndroidManifest.xml:23:5-74
+	android:name
+		ADDED from /home/anhvu/Documents/My Job/Namtech/demo/demo-expo/android/app/src/main/AndroidManifest.xml:23:22-71
+uses-permission#android.permission.VIBRATE
+ADDED from /home/anhvu/Documents/My Job/Namtech/demo/demo-expo/android/app/src/main/AndroidManifest.xml:24:5-66
+	android:name
+		ADDED from /home/anhvu/Documents/My Job/Namtech/demo/demo-expo/android/app/src/main/AndroidManifest.xml:24:22-63
+uses-permission#android.permission.MODIFY_AUDIO_SETTINGS
+ADDED from /home/anhvu/Documents/My Job/Namtech/demo/demo-expo/android/app/src/main/AndroidManifest.xml:25:5-80
+	android:name
+		ADDED from /home/anhvu/Documents/My Job/Namtech/demo/demo-expo/android/app/src/main/AndroidManifest.xml:25:22-77
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from /home/anhvu/Documents/My Job/Namtech/demo/demo-expo/android/app/src/main/AndroidManifest.xml:28:5-81
+MERGED from [:expo-location] /home/anhvu/Documents/My Job/Namtech/demo/demo-expo/node_modules/expo-location/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:11:5-81
+MERGED from [:expo-location] /home/anhvu/Documents/My Job/Namtech/demo/demo-expo/node_modules/expo-location/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:11:5-81
+MERGED from [io.nlopez.smartlocation:library:3.2.11] /home/anhvu/.gradle/caches/transforms-1/files-1.1/jetified-library-3.2.11.aar/9585bb5ed4a0898379029c71479d44cf/AndroidManifest.xml:12:5-81
+MERGED from [io.nlopez.smartlocation:library:3.2.11] /home/anhvu/.gradle/caches/transforms-1/files-1.1/jetified-library-3.2.11.aar/9585bb5ed4a0898379029c71479d44cf/AndroidManifest.xml:12:5-81
+	android:name
+		ADDED from /home/anhvu/Documents/My Job/Namtech/demo/demo-expo/android/app/src/main/AndroidManifest.xml:28:22-78
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from /home/anhvu/Documents/My Job/Namtech/demo/demo-expo/android/app/src/main/AndroidManifest.xml:29:5-79
+MERGED from [:expo-location] /home/anhvu/Documents/My Job/Namtech/demo/demo-expo/node_modules/expo-location/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:12:5-79
+MERGED from [:expo-location] /home/anhvu/Documents/My Job/Namtech/demo/demo-expo/node_modules/expo-location/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:12:5-79
+MERGED from [io.nlopez.smartlocation:library:3.2.11] /home/anhvu/.gradle/caches/transforms-1/files-1.1/jetified-library-3.2.11.aar/9585bb5ed4a0898379029c71479d44cf/AndroidManifest.xml:14:5-79
+MERGED from [io.nlopez.smartlocation:library:3.2.11] /home/anhvu/.gradle/caches/transforms-1/files-1.1/jetified-library-3.2.11.aar/9585bb5ed4a0898379029c71479d44cf/AndroidManifest.xml:14:5-79
+	android:name
+		ADDED from /home/anhvu/Documents/My Job/Namtech/demo/demo-expo/android/app/src/main/AndroidManifest.xml:29:22-76
+uses-permission#android.permission.CAMERA
+ADDED from /home/anhvu/Documents/My Job/Namtech/demo/demo-expo/android/app/src/main/AndroidManifest.xml:30:5-65
+	android:name
+		ADDED from /home/anhvu/Documents/My Job/Namtech/demo/demo-expo/android/app/src/main/AndroidManifest.xml:30:22-62
+uses-permission#android.permission.READ_CONTACTS
+ADDED from /home/anhvu/Documents/My Job/Namtech/demo/demo-expo/android/app/src/main/AndroidManifest.xml:31:5-72
+	android:name
+		ADDED from /home/anhvu/Documents/My Job/Namtech/demo/demo-expo/android/app/src/main/AndroidManifest.xml:31:22-69
+uses-permission#android.permission.READ_CALENDAR
+ADDED from /home/anhvu/Documents/My Job/Namtech/demo/demo-expo/android/app/src/main/AndroidManifest.xml:32:5-72
+	android:name
+		ADDED from /home/anhvu/Documents/My Job/Namtech/demo/demo-expo/android/app/src/main/AndroidManifest.xml:32:22-69
+uses-permission#android.permission.WRITE_CALENDAR
+ADDED from /home/anhvu/Documents/My Job/Namtech/demo/demo-expo/android/app/src/main/AndroidManifest.xml:33:5-73
+	android:name
+		ADDED from /home/anhvu/Documents/My Job/Namtech/demo/demo-expo/android/app/src/main/AndroidManifest.xml:33:22-70
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /home/anhvu/Documents/My Job/Namtech/demo/demo-expo/android/app/src/main/AndroidManifest.xml:34:5-80
+MERGED from [:expo-file-system] /home/anhvu/Documents/My Job/Namtech/demo/demo-expo/node_modules/expo-file-system/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:14:5-80
+MERGED from [:expo-file-system] /home/anhvu/Documents/My Job/Namtech/demo/demo-expo/node_modules/expo-file-system/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:14:5-80
+	android:name
+		ADDED from /home/anhvu/Documents/My Job/Namtech/demo/demo-expo/android/app/src/main/AndroidManifest.xml:34:22-77
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from /home/anhvu/Documents/My Job/Namtech/demo/demo-expo/android/app/src/main/AndroidManifest.xml:35:5-71
+	android:name
+		ADDED from /home/anhvu/Documents/My Job/Namtech/demo/demo-expo/android/app/src/main/AndroidManifest.xml:35:22-68
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /home/anhvu/Documents/My Job/Namtech/demo/demo-expo/android/app/src/main/AndroidManifest.xml:36:5-81
+MERGED from [:expo-file-system] /home/anhvu/Documents/My Job/Namtech/demo/demo-expo/node_modules/expo-file-system/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:13:5-81
+MERGED from [:expo-file-system] /home/anhvu/Documents/My Job/Namtech/demo/demo-expo/node_modules/expo-file-system/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:13:5-81
+	android:name
+		ADDED from /home/anhvu/Documents/My Job/Namtech/demo/demo-expo/android/app/src/main/AndroidManifest.xml:36:22-78
+uses-permission#android.permission.WRITE_SETTINGS
+ADDED from /home/anhvu/Documents/My Job/Namtech/demo/demo-expo/android/app/src/main/AndroidManifest.xml:37:5-73
+	android:name
+		ADDED from /home/anhvu/Documents/My Job/Namtech/demo/demo-expo/android/app/src/main/AndroidManifest.xml:37:22-70
+application
+ADDED from /home/anhvu/Documents/My Job/Namtech/demo/demo-expo/android/app/src/main/AndroidManifest.xml:40:5-58:19
+MERGED from [com.facebook.react:react-native:0.61.5] /home/anhvu/.gradle/caches/transforms-1/files-1.1/jetified-react-native-0.61.5.aar/616f869c89f58971ad827d4b750435f2/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.react:react-native:0.61.5] /home/anhvu/.gradle/caches/transforms-1/files-1.1/jetified-react-native-0.61.5.aar/616f869c89f58971ad827d4b750435f2/AndroidManifest.xml:11:5-20
+MERGED from [:expo-file-system] /home/anhvu/Documents/My Job/Namtech/demo/demo-expo/node_modules/expo-file-system/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:17:5-28:19
+MERGED from [:expo-file-system] /home/anhvu/Documents/My Job/Namtech/demo/demo-expo/node_modules/expo-file-system/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:17:5-28:19
+MERGED from [:expo-location] /home/anhvu/Documents/My Job/Namtech/demo/demo-expo/node_modules/expo-location/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:15:5-19:19
+MERGED from [:expo-location] /home/anhvu/Documents/My Job/Namtech/demo/demo-expo/node_modules/expo-location/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:15:5-19:19
+MERGED from [com.google.android.gms:play-services-location:16.0.0] /home/anhvu/.gradle/caches/transforms-1/files-1.1/jetified-play-services-location-16.0.0.aar/11326f0f330838699f960eead69a5c18/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-location:16.0.0] /home/anhvu/.gradle/caches/transforms-1/files-1.1/jetified-play-services-location-16.0.0.aar/11326f0f330838699f960eead69a5c18/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /home/anhvu/.gradle/caches/transforms-1/files-1.1/jetified-play-services-base-16.0.1.aar/966ed1781dbbdc0dd1c25bab590c108a/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /home/anhvu/.gradle/caches/transforms-1/files-1.1/jetified-play-services-base-16.0.1.aar/966ed1781dbbdc0dd1c25bab590c108a/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-places-placereport:16.0.0] /home/anhvu/.gradle/caches/transforms-1/files-1.1/play-services-places-placereport-16.0.0.aar/85f2c9ac54e510e1a8142d47d392d972/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-places-placereport:16.0.0] /home/anhvu/.gradle/caches/transforms-1/files-1.1/play-services-places-placereport-16.0.0.aar/85f2c9ac54e510e1a8142d47d392d972/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /home/anhvu/.gradle/caches/transforms-1/files-1.1/jetified-play-services-tasks-16.0.1.aar/10cfa21a3b376df837020427cc1a7546/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /home/anhvu/.gradle/caches/transforms-1/files-1.1/jetified-play-services-tasks-16.0.1.aar/10cfa21a3b376df837020427cc1a7546/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] /home/anhvu/.gradle/caches/transforms-1/files-1.1/jetified-play-services-basement-16.0.1.aar/576b25a496bca1ae71ed127134c46549/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] /home/anhvu/.gradle/caches/transforms-1/files-1.1/jetified-play-services-basement-16.0.1.aar/576b25a496bca1ae71ed127134c46549/AndroidManifest.xml:22:5-26:19
+MERGED from [com.github.bumptech.glide:glide:4.9.0] /home/anhvu/.gradle/caches/transforms-1/files-1.1/jetified-glide-4.9.0.aar/bd6aac3135105abc1f70684b270a90e5/AndroidManifest.xml:10:5-20
+MERGED from [com.github.bumptech.glide:glide:4.9.0] /home/anhvu/.gradle/caches/transforms-1/files-1.1/jetified-glide-4.9.0.aar/bd6aac3135105abc1f70684b270a90e5/AndroidManifest.xml:10:5-20
+MERGED from [androidx.core:core:1.1.0-rc01] /home/anhvu/.gradle/caches/transforms-1/files-1.1/core-1.1.0-rc01.aar/04f682db9e1689bcc159fd8b83912fa8/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.1.0-rc01] /home/anhvu/.gradle/caches/transforms-1/files-1.1/core-1.1.0-rc01.aar/04f682db9e1689bcc159fd8b83912fa8/AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0-rc01] /home/anhvu/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.1.0-rc01.aar/6dfa3e5692d38e6480ce29c82e5486b1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0-rc01] /home/anhvu/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.1.0-rc01.aar/6dfa3e5692d38e6480ce29c82e5486b1/AndroidManifest.xml:24:5-25:19
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] /home/anhvu/.gradle/caches/transforms-1/files-1.1/jetified-gifdecoder-4.9.0.aar/ddd180662bbe70eca46401b7aece840c/AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] /home/anhvu/.gradle/caches/transforms-1/files-1.1/jetified-gifdecoder-4.9.0.aar/ddd180662bbe70eca46401b7aece840c/AndroidManifest.xml:9:5-20
+MERGED from [com.facebook.soloader:soloader:0.6.0] /home/anhvu/.gradle/caches/transforms-1/files-1.1/soloader-0.6.0.aar/5e57c43b809a5c6af45c292508ae3731/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.6.0] /home/anhvu/.gradle/caches/transforms-1/files-1.1/soloader-0.6.0.aar/5e57c43b809a5c6af45c292508ae3731/AndroidManifest.xml:11:5-20
+MERGED from [io.nlopez.smartlocation:library:3.2.11] /home/anhvu/.gradle/caches/transforms-1/files-1.1/jetified-library-3.2.11.aar/9585bb5ed4a0898379029c71479d44cf/AndroidManifest.xml:18:5-28:19
+MERGED from [io.nlopez.smartlocation:library:3.2.11] /home/anhvu/.gradle/caches/transforms-1/files-1.1/jetified-library-3.2.11.aar/9585bb5ed4a0898379029c71479d44cf/AndroidManifest.xml:18:5-28:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.1.0-rc01] /home/anhvu/.gradle/caches/transforms-1/files-1.1/core-1.1.0-rc01.aar/04f682db9e1689bcc159fd8b83912fa8/AndroidManifest.xml:24:18-86
+	android:label
+		ADDED from /home/anhvu/Documents/My Job/Namtech/demo/demo-expo/android/app/src/main/AndroidManifest.xml:42:7-39
+	android:roundIcon
+		ADDED from /home/anhvu/Documents/My Job/Namtech/demo/demo-expo/android/app/src/main/AndroidManifest.xml:44:7-52
+	android:icon
+		ADDED from /home/anhvu/Documents/My Job/Namtech/demo/demo-expo/android/app/src/main/AndroidManifest.xml:43:7-41
+	android:allowBackup
+		ADDED from /home/anhvu/Documents/My Job/Namtech/demo/demo-expo/android/app/src/main/AndroidManifest.xml:45:7-34
+	android:theme
+		ADDED from /home/anhvu/Documents/My Job/Namtech/demo/demo-expo/android/app/src/main/AndroidManifest.xml:46:7-38
+	android:name
+		ADDED from /home/anhvu/Documents/My Job/Namtech/demo/demo-expo/android/app/src/main/AndroidManifest.xml:41:7-38
+activity#com.y.MainActivity
+ADDED from /home/anhvu/Documents/My Job/Namtech/demo/demo-expo/android/app/src/main/AndroidManifest.xml:47:7-56:18
+	android:label
+		ADDED from /home/anhvu/Documents/My Job/Namtech/demo/demo-expo/android/app/src/main/AndroidManifest.xml:49:9-41
+	android:windowSoftInputMode
+		ADDED from /home/anhvu/Documents/My Job/Namtech/demo/demo-expo/android/app/src/main/AndroidManifest.xml:51:9-51
+	android:configChanges
+		ADDED from /home/anhvu/Documents/My Job/Namtech/demo/demo-expo/android/app/src/main/AndroidManifest.xml:50:9-79
+	android:name
+		ADDED from /home/anhvu/Documents/My Job/Namtech/demo/demo-expo/android/app/src/main/AndroidManifest.xml:48:9-37
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/anhvu/Documents/My Job/Namtech/demo/demo-expo/android/app/src/main/AndroidManifest.xml:52:9-55:25
+action#android.intent.action.MAIN
+ADDED from /home/anhvu/Documents/My Job/Namtech/demo/demo-expo/android/app/src/main/AndroidManifest.xml:53:13-65
+	android:name
+		ADDED from /home/anhvu/Documents/My Job/Namtech/demo/demo-expo/android/app/src/main/AndroidManifest.xml:53:21-62
+category#android.intent.category.LAUNCHER
+ADDED from /home/anhvu/Documents/My Job/Namtech/demo/demo-expo/android/app/src/main/AndroidManifest.xml:54:13-73
+	android:name
+		ADDED from /home/anhvu/Documents/My Job/Namtech/demo/demo-expo/android/app/src/main/AndroidManifest.xml:54:23-70
+activity#com.facebook.react.devsupport.DevSettingsActivity
+ADDED from /home/anhvu/Documents/My Job/Namtech/demo/demo-expo/android/app/src/main/AndroidManifest.xml:57:7-84
+	android:name
+		ADDED from /home/anhvu/Documents/My Job/Namtech/demo/demo-expo/android/app/src/main/AndroidManifest.xml:57:17-81
+uses-sdk
+INJECTED from /home/anhvu/Documents/My Job/Namtech/demo/demo-expo/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/anhvu/Documents/My Job/Namtech/demo/demo-expo/android/app/src/main/AndroidManifest.xml
+INJECTED from /home/anhvu/Documents/My Job/Namtech/demo/demo-expo/android/app/src/main/AndroidManifest.xml
+MERGED from [:react-native-webrtc] /home/anhvu/Documents/My Job/Namtech/demo/demo-expo/node_modules/react-native-webrtc/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-webrtc] /home/anhvu/Documents/My Job/Namtech/demo/demo-expo/node_modules/react-native-webrtc/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-screens] /home/anhvu/Documents/My Job/Namtech/demo/demo-expo/node_modules/react-native-screens/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-screens] /home/anhvu/Documents/My Job/Namtech/demo/demo-expo/node_modules/react-native-screens/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-reanimated] /home/anhvu/Documents/My Job/Namtech/demo/demo-expo/node_modules/react-native-reanimated/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-reanimated] /home/anhvu/Documents/My Job/Namtech/demo/demo-expo/node_modules/react-native-reanimated/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-gesture-handler] /home/anhvu/Documents/My Job/Namtech/demo/demo-expo/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-gesture-handler] /home/anhvu/Documents/My Job/Namtech/demo/demo-expo/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-permissions] /home/anhvu/Documents/My Job/Namtech/demo/demo-expo/node_modules/expo-permissions/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-permissions] /home/anhvu/Documents/My Job/Namtech/demo/demo-expo/node_modules/expo-permissions/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-react-native-adapter] /home/anhvu/Documents/My Job/Namtech/demo/demo-expo/node_modules/@unimodules/react-native-adapter/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-react-native-adapter] /home/anhvu/Documents/My Job/Namtech/demo/demo-expo/node_modules/@unimodules/react-native-adapter/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.61.5] /home/anhvu/.gradle/caches/transforms-1/files-1.1/jetified-react-native-0.61.5.aar/616f869c89f58971ad827d4b750435f2/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.61.5] /home/anhvu/.gradle/caches/transforms-1/files-1.1/jetified-react-native-0.61.5.aar/616f869c89f58971ad827d4b750435f2/AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.appcompat:appcompat:1.1.0-rc01] /home/anhvu/.gradle/caches/transforms-1/files-1.1/appcompat-1.1.0-rc01.aar/9bc9e5568bc9706d1df717db4bb4e03a/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.1.0-rc01] /home/anhvu/.gradle/caches/transforms-1/files-1.1/appcompat-1.1.0-rc01.aar/9bc9e5568bc9706d1df717db4bb4e03a/AndroidManifest.xml:20:5-22:41
+MERGED from [:expo-file-system] /home/anhvu/Documents/My Job/Namtech/demo/demo-expo/node_modules/expo-file-system/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:8:5-10:41
+MERGED from [:expo-file-system] /home/anhvu/Documents/My Job/Namtech/demo/demo-expo/node_modules/expo-file-system/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:8:5-10:41
+MERGED from [:expo-location] /home/anhvu/Documents/My Job/Namtech/demo/demo-expo/node_modules/expo-location/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-location] /home/anhvu/Documents/My Job/Namtech/demo/demo-expo/node_modules/expo-location/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.android.gms:play-services-location:16.0.0] /home/anhvu/.gradle/caches/transforms-1/files-1.1/jetified-play-services-location-16.0.0.aar/11326f0f330838699f960eead69a5c18/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-location:16.0.0] /home/anhvu/.gradle/caches/transforms-1/files-1.1/jetified-play-services-location-16.0.0.aar/11326f0f330838699f960eead69a5c18/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /home/anhvu/.gradle/caches/transforms-1/files-1.1/jetified-play-services-base-16.0.1.aar/966ed1781dbbdc0dd1c25bab590c108a/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /home/anhvu/.gradle/caches/transforms-1/files-1.1/jetified-play-services-base-16.0.1.aar/966ed1781dbbdc0dd1c25bab590c108a/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-places-placereport:16.0.0] /home/anhvu/.gradle/caches/transforms-1/files-1.1/play-services-places-placereport-16.0.0.aar/85f2c9ac54e510e1a8142d47d392d972/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-places-placereport:16.0.0] /home/anhvu/.gradle/caches/transforms-1/files-1.1/play-services-places-placereport-16.0.0.aar/85f2c9ac54e510e1a8142d47d392d972/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /home/anhvu/.gradle/caches/transforms-1/files-1.1/jetified-play-services-tasks-16.0.1.aar/10cfa21a3b376df837020427cc1a7546/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /home/anhvu/.gradle/caches/transforms-1/files-1.1/jetified-play-services-tasks-16.0.1.aar/10cfa21a3b376df837020427cc1a7546/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] /home/anhvu/.gradle/caches/transforms-1/files-1.1/jetified-play-services-basement-16.0.1.aar/576b25a496bca1ae71ed127134c46549/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] /home/anhvu/.gradle/caches/transforms-1/files-1.1/jetified-play-services-basement-16.0.1.aar/576b25a496bca1ae71ed127134c46549/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /home/anhvu/.gradle/caches/transforms-1/files-1.1/legacy-support-v4-1.0.0.aar/7dbba4e73e761658cbd2acbf850490ee/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /home/anhvu/.gradle/caches/transforms-1/files-1.1/legacy-support-v4-1.0.0.aar/7dbba4e73e761658cbd2acbf850490ee/AndroidManifest.xml:20:5-44
+MERGED from [:expo-web-browser] /home/anhvu/Documents/My Job/Namtech/demo/demo-expo/node_modules/expo-web-browser/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-web-browser] /home/anhvu/Documents/My Job/Namtech/demo/demo-expo/node_modules/expo-web-browser/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.browser:browser:1.0.0] /home/anhvu/.gradle/caches/transforms-1/files-1.1/browser-1.0.0.aar/3763351de588b7e05e12039e7bd735b3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.browser:browser:1.0.0] /home/anhvu/.gradle/caches/transforms-1/files-1.1/browser-1.0.0.aar/3763351de588b7e05e12039e7bd735b3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/anhvu/.gradle/caches/transforms-1/files-1.1/legacy-support-core-ui-1.0.0.aar/0ab9e0e9cc4f5eb58660694a4f72ebef/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/anhvu/.gradle/caches/transforms-1/files-1.1/legacy-support-core-ui-1.0.0.aar/0ab9e0e9cc4f5eb58660694a4f72ebef/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.1.0-alpha02] /home/anhvu/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-1.1.0-alpha02.aar/45c540635c200afd0d245892e266d17c/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.1.0-alpha02] /home/anhvu/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-1.1.0-alpha02.aar/45c540635c200afd0d245892e266d17c/AndroidManifest.xml:20:5-22:41
+MERGED from [:expo-app-loader-provider] /home/anhvu/Documents/My Job/Namtech/demo/demo-expo/node_modules/expo-app-loader-provider/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-app-loader-provider] /home/anhvu/Documents/My Job/Namtech/demo/demo-expo/node_modules/expo-app-loader-provider/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-constants] /home/anhvu/Documents/My Job/Namtech/demo/demo-expo/node_modules/expo-constants/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-constants] /home/anhvu/Documents/My Job/Namtech/demo/demo-expo/node_modules/expo-constants/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-error-recovery] /home/anhvu/Documents/My Job/Namtech/demo/demo-expo/node_modules/expo-error-recovery/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-error-recovery] /home/anhvu/Documents/My Job/Namtech/demo/demo-expo/node_modules/expo-error-recovery/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-font] /home/anhvu/Documents/My Job/Namtech/demo/demo-expo/node_modules/expo-font/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-font] /home/anhvu/Documents/My Job/Namtech/demo/demo-expo/node_modules/expo-font/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-keep-awake] /home/anhvu/Documents/My Job/Namtech/demo/demo-expo/node_modules/expo-keep-awake/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-keep-awake] /home/anhvu/Documents/My Job/Namtech/demo/demo-expo/node_modules/expo-keep-awake/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-linear-gradient] /home/anhvu/Documents/My Job/Namtech/demo/demo-expo/node_modules/expo-linear-gradient/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-linear-gradient] /home/anhvu/Documents/My Job/Namtech/demo/demo-expo/node_modules/expo-linear-gradient/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-sqlite] /home/anhvu/Documents/My Job/Namtech/demo/demo-expo/node_modules/expo-sqlite/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-sqlite] /home/anhvu/Documents/My Job/Namtech/demo/demo-expo/node_modules/expo-sqlite/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-barcode-scanner-interface] /home/anhvu/Documents/My Job/Namtech/demo/demo-expo/node_modules/unimodules-barcode-scanner-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-barcode-scanner-interface] /home/anhvu/Documents/My Job/Namtech/demo/demo-expo/node_modules/unimodules-barcode-scanner-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-camera-interface] /home/anhvu/Documents/My Job/Namtech/demo/demo-expo/node_modules/unimodules-camera-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-camera-interface] /home/anhvu/Documents/My Job/Namtech/demo/demo-expo/node_modules/unimodules-camera-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-constants-interface] /home/anhvu/Documents/My Job/Namtech/demo/demo-expo/node_modules/unimodules-constants-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-constants-interface] /home/anhvu/Documents/My Job/Namtech/demo/demo-expo/node_modules/unimodules-constants-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-face-detector-interface] /home/anhvu/Documents/My Job/Namtech/demo/demo-expo/node_modules/unimodules-face-detector-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-face-detector-interface] /home/anhvu/Documents/My Job/Namtech/demo/demo-expo/node_modules/unimodules-face-detector-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-file-system-interface] /home/anhvu/Documents/My Job/Namtech/demo/demo-expo/node_modules/unimodules-file-system-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-file-system-interface] /home/anhvu/Documents/My Job/Namtech/demo/demo-expo/node_modules/unimodules-file-system-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-font-interface] /home/anhvu/Documents/My Job/Namtech/demo/demo-expo/node_modules/unimodules-font-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-font-interface] /home/anhvu/Documents/My Job/Namtech/demo/demo-expo/node_modules/unimodules-font-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-permissions-interface] /home/anhvu/Documents/My Job/Namtech/demo/demo-expo/node_modules/unimodules-permissions-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-permissions-interface] /home/anhvu/Documents/My Job/Namtech/demo/demo-expo/node_modules/unimodules-permissions-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-task-manager-interface] /home/anhvu/Documents/My Job/Namtech/demo/demo-expo/node_modules/unimodules-task-manager-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-task-manager-interface] /home/anhvu/Documents/My Job/Namtech/demo/demo-expo/node_modules/unimodules-task-manager-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-core] /home/anhvu/Documents/My Job/Namtech/demo/demo-expo/node_modules/@unimodules/core/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-core] /home/anhvu/Documents/My Job/Namtech/demo/demo-expo/node_modules/@unimodules/core/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-image-loader-interface] /home/anhvu/Documents/My Job/Namtech/demo/demo-expo/node_modules/unimodules-image-loader-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-image-loader-interface] /home/anhvu/Documents/My Job/Namtech/demo/demo-expo/node_modules/unimodules-image-loader-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-sensors-interface] /home/anhvu/Documents/My Job/Namtech/demo/demo-expo/node_modules/unimodules-sensors-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-sensors-interface] /home/anhvu/Documents/My Job/Namtech/demo/demo-expo/node_modules/unimodules-sensors-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [org.webkit:android-jsc:r245459] /home/anhvu/.gradle/caches/transforms-1/files-1.1/android-jsc-r245459.aar/80abab67cd9dbad20d2cbf548baeadfc/AndroidManifest.xml:7:5-9:41
+MERGED from [org.webkit:android-jsc:r245459] /home/anhvu/.gradle/caches/transforms-1/files-1.1/android-jsc-r245459.aar/80abab67cd9dbad20d2cbf548baeadfc/AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.transition:transition:1.1.0] /home/anhvu/.gradle/caches/transforms-1/files-1.1/transition-1.1.0.aar/0b6c8754e197b375851ad865461ef5db/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.1.0] /home/anhvu/.gradle/caches/transforms-1/files-1.1/transition-1.1.0.aar/0b6c8754e197b375851ad865461ef5db/AndroidManifest.xml:20:5-44
+MERGED from [com.github.bumptech.glide:glide:4.9.0] /home/anhvu/.gradle/caches/transforms-1/files-1.1/jetified-glide-4.9.0.aar/bd6aac3135105abc1f70684b270a90e5/AndroidManifest.xml:6:5-8:41
+MERGED from [com.github.bumptech.glide:glide:4.9.0] /home/anhvu/.gradle/caches/transforms-1/files-1.1/jetified-glide-4.9.0.aar/bd6aac3135105abc1f70684b270a90e5/AndroidManifest.xml:6:5-8:41
+MERGED from [androidx.fragment:fragment:1.1.0-rc01] /home/anhvu/.gradle/caches/transforms-1/files-1.1/fragment-1.1.0-rc01.aar/f71b265090afddfbb83657121abd1e09/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0-rc01] /home/anhvu/.gradle/caches/transforms-1/files-1.1/fragment-1.1.0-rc01.aar/f71b265090afddfbb83657121abd1e09/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0-rc01] /home/anhvu/.gradle/caches/transforms-1/files-1.1/appcompat-resources-1.1.0-rc01.aar/7c0fb7d5988875ced08217a1ec70a40d/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0-rc01] /home/anhvu/.gradle/caches/transforms-1/files-1.1/appcompat-resources-1.1.0-rc01.aar/7c0fb7d5988875ced08217a1ec70a40d/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/anhvu/.gradle/caches/transforms-1/files-1.1/drawerlayout-1.0.0.aar/fe8c740a52f0313c9df7cbe6558b9855/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/anhvu/.gradle/caches/transforms-1/files-1.1/drawerlayout-1.0.0.aar/fe8c740a52f0313c9df7cbe6558b9855/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/anhvu/.gradle/caches/transforms-1/files-1.1/viewpager-1.0.0.aar/8570c75ff46f543dfcd5e3432a438a32/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/anhvu/.gradle/caches/transforms-1/files-1.1/viewpager-1.0.0.aar/8570c75ff46f543dfcd5e3432a438a32/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/anhvu/.gradle/caches/transforms-1/files-1.1/legacy-support-core-utils-1.0.0.aar/2af0e861dcf95a1fa7f9a4cac2cb00d7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/anhvu/.gradle/caches/transforms-1/files-1.1/legacy-support-core-utils-1.0.0.aar/2af0e861dcf95a1fa7f9a4cac2cb00d7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/anhvu/.gradle/caches/transforms-1/files-1.1/loader-1.0.0.aar/074e641cfb3b6812a4e919fa2849c3cc/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/anhvu/.gradle/caches/transforms-1/files-1.1/loader-1.0.0.aar/074e641cfb3b6812a4e919fa2849c3cc/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0-rc01] /home/anhvu/.gradle/caches/transforms-1/files-1.1/activity-1.0.0-rc01.aar/9b576b55227584df55c2b607e2dc3c56/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0-rc01] /home/anhvu/.gradle/caches/transforms-1/files-1.1/activity-1.0.0-rc01.aar/9b576b55227584df55c2b607e2dc3c56/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0-rc01] /home/anhvu/.gradle/caches/transforms-1/files-1.1/vectordrawable-animated-1.1.0-rc01.aar/016ed07469a02056fa9024d37f08fa72/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0-rc01] /home/anhvu/.gradle/caches/transforms-1/files-1.1/vectordrawable-animated-1.1.0-rc01.aar/016ed07469a02056fa9024d37f08fa72/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0-rc01] /home/anhvu/.gradle/caches/transforms-1/files-1.1/vectordrawable-1.1.0-rc01.aar/b0595171e53a2930a1602d1669033063/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0-rc01] /home/anhvu/.gradle/caches/transforms-1/files-1.1/vectordrawable-1.1.0-rc01.aar/b0595171e53a2930a1602d1669033063/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /home/anhvu/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-1.0.0.aar/dbafadb14b489d4ff256257be4496b25/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /home/anhvu/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-1.0.0.aar/dbafadb14b489d4ff256257be4496b25/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/anhvu/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-1.0.0.aar/ff8ed2e3005e681dbee97f0e7af482f4/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/anhvu/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-1.0.0.aar/ff8ed2e3005e681dbee97f0e7af482f4/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /home/anhvu/.gradle/caches/transforms-1/files-1.1/customview-1.0.0.aar/ac66f9688d1529bfdc9b86bffeec3dca/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /home/anhvu/.gradle/caches/transforms-1/files-1.1/customview-1.0.0.aar/ac66f9688d1529bfdc9b86bffeec3dca/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] /home/anhvu/.gradle/caches/transforms-1/files-1.1/media-1.0.0.aar/427e46f92b94ba4625f44c6faa848915/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] /home/anhvu/.gradle/caches/transforms-1/files-1.1/media-1.0.0.aar/427e46f92b94ba4625f44c6faa848915/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/anhvu/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-1.0.0.aar/9bca51a77929fea95762ab821674919c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/anhvu/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-1.0.0.aar/9bca51a77929fea95762ab821674919c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.1.0-rc01] /home/anhvu/.gradle/caches/transforms-1/files-1.1/core-1.1.0-rc01.aar/04f682db9e1689bcc159fd8b83912fa8/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.1.0-rc01] /home/anhvu/.gradle/caches/transforms-1/files-1.1/core-1.1.0-rc01.aar/04f682db9e1689bcc159fd8b83912fa8/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/anhvu/.gradle/caches/transforms-1/files-1.1/cursoradapter-1.0.0.aar/c09e630e0f1bcc6f76eb8f54d8827a29/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/anhvu/.gradle/caches/transforms-1/files-1.1/cursoradapter-1.0.0.aar/c09e630e0f1bcc6f76eb8f54d8827a29/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/anhvu/.gradle/caches/transforms-1/files-1.1/interpolator-1.0.0.aar/327789093529684fe17ccf1dddb33035/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/anhvu/.gradle/caches/transforms-1/files-1.1/interpolator-1.0.0.aar/327789093529684fe17ccf1dddb33035/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0-rc01] /home/anhvu/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.1.0-rc01.aar/6dfa3e5692d38e6480ce29c82e5486b1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0-rc01] /home/anhvu/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.1.0-rc01.aar/6dfa3e5692d38e6480ce29c82e5486b1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0-rc01] /home/anhvu/.gradle/caches/transforms-1/files-1.1/lifecycle-runtime-2.1.0-rc01.aar/de5fa565a17a97c51ffae6e33f7cc408/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0-rc01] /home/anhvu/.gradle/caches/transforms-1/files-1.1/lifecycle-runtime-2.1.0-rc01.aar/de5fa565a17a97c51ffae6e33f7cc408/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0-rc01] /home/anhvu/.gradle/caches/transforms-1/files-1.1/lifecycle-viewmodel-2.1.0-rc01.aar/2cc1ae4b6c74e4e1050e085bcd69ec0b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0-rc01] /home/anhvu/.gradle/caches/transforms-1/files-1.1/lifecycle-viewmodel-2.1.0-rc01.aar/2cc1ae4b6c74e4e1050e085bcd69ec0b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.0.0-rc01] /home/anhvu/.gradle/caches/transforms-1/files-1.1/savedstate-1.0.0-rc01.aar/011704de6a5986c180e831bc53030a47/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0-rc01] /home/anhvu/.gradle/caches/transforms-1/files-1.1/savedstate-1.0.0-rc01.aar/011704de6a5986c180e831bc53030a47/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/anhvu/.gradle/caches/transforms-1/files-1.1/documentfile-1.0.0.aar/2544feeaea017ddba34cef4076b42c86/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/anhvu/.gradle/caches/transforms-1/files-1.1/documentfile-1.0.0.aar/2544feeaea017ddba34cef4076b42c86/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/anhvu/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-1.0.0.aar/744c34da037cdfd034441b4d7dc141ee/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/anhvu/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-1.0.0.aar/744c34da037cdfd034441b4d7dc141ee/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /home/anhvu/.gradle/caches/transforms-1/files-1.1/print-1.0.0.aar/490e6287d6cdf2eae142e6e17ee33d2f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /home/anhvu/.gradle/caches/transforms-1/files-1.1/print-1.0.0.aar/490e6287d6cdf2eae142e6e17ee33d2f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/anhvu/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-2.0.0.aar/8e98ead1e8f8a21538a088c7070007fc/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/anhvu/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-2.0.0.aar/8e98ead1e8f8a21538a088c7070007fc/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/anhvu/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-core-2.0.0.aar/1a1192ffbb283bb36eb77a4d906e99b5/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/anhvu/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-core-2.0.0.aar/1a1192ffbb283bb36eb77a4d906e99b5/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/anhvu/.gradle/caches/transforms-1/files-1.1/core-runtime-2.0.0.aar/1382deeb57f26ef6a8c503f9d4b00b24/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/anhvu/.gradle/caches/transforms-1/files-1.1/core-runtime-2.0.0.aar/1382deeb57f26ef6a8c503f9d4b00b24/AndroidManifest.xml:20:5-44
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] /home/anhvu/.gradle/caches/transforms-1/files-1.1/jetified-gifdecoder-4.9.0.aar/ddd180662bbe70eca46401b7aece840c/AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] /home/anhvu/.gradle/caches/transforms-1/files-1.1/jetified-gifdecoder-4.9.0.aar/ddd180662bbe70eca46401b7aece840c/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:2.0.0] /home/anhvu/.gradle/caches/transforms-1/files-1.1/fresco-2.0.0.aar/4df3610d0ec38cc3339cdd361db2c7bf/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:2.0.0] /home/anhvu/.gradle/caches/transforms-1/files-1.1/fresco-2.0.0.aar/4df3610d0ec38cc3339cdd361db2c7bf/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /home/anhvu/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-2.0.0.aar/e16ab5eec670987565ca68235b6b99cb/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /home/anhvu/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-2.0.0.aar/e16ab5eec670987565ca68235b6b99cb/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.0.0] /home/anhvu/.gradle/caches/transforms-1/files-1.1/drawee-2.0.0.aar/dfe4bdd3567168b45af952914fe09580/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.0.0] /home/anhvu/.gradle/caches/transforms-1/files-1.1/drawee-2.0.0.aar/dfe4bdd3567168b45af952914fe09580/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] /home/anhvu/.gradle/caches/transforms-1/files-1.1/nativeimagefilters-2.0.0.aar/23527acc3428f0d6b40413e5bf32e977/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] /home/anhvu/.gradle/caches/transforms-1/files-1.1/nativeimagefilters-2.0.0.aar/23527acc3428f0d6b40413e5bf32e977/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] /home/anhvu/.gradle/caches/transforms-1/files-1.1/imagepipeline-2.0.0.aar/c645125ea181088d2fb44276c35efaf2/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] /home/anhvu/.gradle/caches/transforms-1/files-1.1/imagepipeline-2.0.0.aar/c645125ea181088d2fb44276c35efaf2/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] /home/anhvu/.gradle/caches/transforms-1/files-1.1/nativeimagetranscoder-2.0.0.aar/c36a80d109245385ff2dd3efe16c0b88/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] /home/anhvu/.gradle/caches/transforms-1/files-1.1/nativeimagetranscoder-2.0.0.aar/c36a80d109245385ff2dd3efe16c0b88/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] /home/anhvu/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-2.0.0.aar/ca31b6c30d2100aa474bb0d654736838/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] /home/anhvu/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-2.0.0.aar/ca31b6c30d2100aa474bb0d654736838/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.6.0] /home/anhvu/.gradle/caches/transforms-1/files-1.1/soloader-0.6.0.aar/5e57c43b809a5c6af45c292508ae3731/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:soloader:0.6.0] /home/anhvu/.gradle/caches/transforms-1/files-1.1/soloader-0.6.0.aar/5e57c43b809a5c6af45c292508ae3731/AndroidManifest.xml:7:5-9:41
+MERGED from [io.nlopez.smartlocation:library:3.2.11] /home/anhvu/.gradle/caches/transforms-1/files-1.1/jetified-library-3.2.11.aar/9585bb5ed4a0898379029c71479d44cf/AndroidManifest.xml:8:5-10:41
+MERGED from [io.nlopez.smartlocation:library:3.2.11] /home/anhvu/.gradle/caches/transforms-1/files-1.1/jetified-library-3.2.11.aar/9585bb5ed4a0898379029c71479d44cf/AndroidManifest.xml:8:5-10:41
+MERGED from [com.facebook.fresco:fbcore:2.0.0] /home/anhvu/.gradle/caches/transforms-1/files-1.1/jetified-fbcore-2.0.0.aar/4b2c7b6db2342580f5c6335874f0e061/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:2.0.0] /home/anhvu/.gradle/caches/transforms-1/files-1.1/jetified-fbcore-2.0.0.aar/4b2c7b6db2342580f5c6335874f0e061/AndroidManifest.xml:5:5-7:41
+INJECTED from /home/anhvu/Documents/My Job/Namtech/demo/demo-expo/android/app/src/main/AndroidManifest.xml
+INJECTED from /home/anhvu/Documents/My Job/Namtech/demo/demo-expo/android/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/anhvu/Documents/My Job/Namtech/demo/demo-expo/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/anhvu/Documents/My Job/Namtech/demo/demo-expo/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/anhvu/Documents/My Job/Namtech/demo/demo-expo/android/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/anhvu/Documents/My Job/Namtech/demo/demo-expo/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/anhvu/Documents/My Job/Namtech/demo/demo-expo/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/anhvu/Documents/My Job/Namtech/demo/demo-expo/android/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.STORAGE
+ADDED from [:expo-file-system] /home/anhvu/Documents/My Job/Namtech/demo/demo-expo/node_modules/expo-file-system/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:15:5-66
+	android:name
+		ADDED from [:expo-file-system] /home/anhvu/Documents/My Job/Namtech/demo/demo-expo/node_modules/expo-file-system/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:15:22-63
+provider#expo.modules.filesystem.FileSystemFileProvider
+ADDED from [:expo-file-system] /home/anhvu/Documents/My Job/Namtech/demo/demo-expo/node_modules/expo-file-system/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:18:9-27:20
+	android:grantUriPermissions
+		ADDED from [:expo-file-system] /home/anhvu/Documents/My Job/Namtech/demo/demo-expo/node_modules/expo-file-system/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:22:13-47
+	android:authorities
+		ADDED from [:expo-file-system] /home/anhvu/Documents/My Job/Namtech/demo/demo-expo/node_modules/expo-file-system/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:20:13-74
+	android:exported
+		ADDED from [:expo-file-system] /home/anhvu/Documents/My Job/Namtech/demo/demo-expo/node_modules/expo-file-system/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:21:13-37
+	tools:replace
+		ADDED from [:expo-file-system] /home/anhvu/Documents/My Job/Namtech/demo/demo-expo/node_modules/expo-file-system/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:23:13-48
+	android:name
+		ADDED from [:expo-file-system] /home/anhvu/Documents/My Job/Namtech/demo/demo-expo/node_modules/expo-file-system/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:19:13-74
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from [:expo-file-system] /home/anhvu/Documents/My Job/Namtech/demo/demo-expo/node_modules/expo-file-system/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:24:13-26:70
+	android:resource
+		ADDED from [:expo-file-system] /home/anhvu/Documents/My Job/Namtech/demo/demo-expo/node_modules/expo-file-system/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:26:17-67
+	android:name
+		ADDED from [:expo-file-system] /home/anhvu/Documents/My Job/Namtech/demo/demo-expo/node_modules/expo-file-system/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:25:17-67
+uses-permission#android.permission.FOREGROUND_SERVICE
+ADDED from [:expo-location] /home/anhvu/Documents/My Job/Namtech/demo/demo-expo/node_modules/expo-location/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:13:5-77
+	android:name
+		ADDED from [:expo-location] /home/anhvu/Documents/My Job/Namtech/demo/demo-expo/node_modules/expo-location/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:13:22-74
+service#expo.modules.location.services.LocationTaskService
+ADDED from [:expo-location] /home/anhvu/Documents/My Job/Namtech/demo/demo-expo/node_modules/expo-location/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:16:9-18:40
+	android:exported
+		ADDED from [:expo-location] /home/anhvu/Documents/My Job/Namtech/demo/demo-expo/node_modules/expo-location/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:18:13-37
+	android:name
+		ADDED from [:expo-location] /home/anhvu/Documents/My Job/Namtech/demo/demo-expo/node_modules/expo-location/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:17:13-78
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:16.0.1] /home/anhvu/.gradle/caches/transforms-1/files-1.1/jetified-play-services-base-16.0.1.aar/966ed1781dbbdc0dd1c25bab590c108a/AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] /home/anhvu/.gradle/caches/transforms-1/files-1.1/jetified-play-services-base-16.0.1.aar/966ed1781dbbdc0dd1c25bab590c108a/AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] /home/anhvu/.gradle/caches/transforms-1/files-1.1/jetified-play-services-base-16.0.1.aar/966ed1781dbbdc0dd1c25bab590c108a/AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] /home/anhvu/.gradle/caches/transforms-1/files-1.1/jetified-play-services-base-16.0.1.aar/966ed1781dbbdc0dd1c25bab590c108a/AndroidManifest.xml:24:13-79
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:16.0.1] /home/anhvu/.gradle/caches/transforms-1/files-1.1/jetified-play-services-basement-16.0.1.aar/576b25a496bca1ae71ed127134c46549/AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:16.0.1] /home/anhvu/.gradle/caches/transforms-1/files-1.1/jetified-play-services-basement-16.0.1.aar/576b25a496bca1ae71ed127134c46549/AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:16.0.1] /home/anhvu/.gradle/caches/transforms-1/files-1.1/jetified-play-services-basement-16.0.1.aar/576b25a496bca1ae71ed127134c46549/AndroidManifest.xml:24:13-58
+uses-permission#com.google.android.providers.gsf.permission.READ_GSERVICES
+ADDED from [io.nlopez.smartlocation:library:3.2.11] /home/anhvu/.gradle/caches/transforms-1/files-1.1/jetified-library-3.2.11.aar/9585bb5ed4a0898379029c71479d44cf/AndroidManifest.xml:15:5-98
+	android:name
+		ADDED from [io.nlopez.smartlocation:library:3.2.11] /home/anhvu/.gradle/caches/transforms-1/files-1.1/jetified-library-3.2.11.aar/9585bb5ed4a0898379029c71479d44cf/AndroidManifest.xml:15:22-95
+uses-permission#com.google.android.gms.permission.ACTIVITY_RECOGNITION
+ADDED from [io.nlopez.smartlocation:library:3.2.11] /home/anhvu/.gradle/caches/transforms-1/files-1.1/jetified-library-3.2.11.aar/9585bb5ed4a0898379029c71479d44cf/AndroidManifest.xml:16:5-94
+	android:name
+		ADDED from [io.nlopez.smartlocation:library:3.2.11] /home/anhvu/.gradle/caches/transforms-1/files-1.1/jetified-library-3.2.11.aar/9585bb5ed4a0898379029c71479d44cf/AndroidManifest.xml:16:22-91
+service#io.nlopez.smartlocation.activity.providers.ActivityGooglePlayServicesProvider$ActivityRecognitionService
+ADDED from [io.nlopez.smartlocation:library:3.2.11] /home/anhvu/.gradle/caches/transforms-1/files-1.1/jetified-library-3.2.11.aar/9585bb5ed4a0898379029c71479d44cf/AndroidManifest.xml:19:9-21:40
+	android:exported
+		ADDED from [io.nlopez.smartlocation:library:3.2.11] /home/anhvu/.gradle/caches/transforms-1/files-1.1/jetified-library-3.2.11.aar/9585bb5ed4a0898379029c71479d44cf/AndroidManifest.xml:21:13-37
+	android:name
+		ADDED from [io.nlopez.smartlocation:library:3.2.11] /home/anhvu/.gradle/caches/transforms-1/files-1.1/jetified-library-3.2.11.aar/9585bb5ed4a0898379029c71479d44cf/AndroidManifest.xml:20:13-132
+service#io.nlopez.smartlocation.geofencing.providers.GeofencingGooglePlayServicesProvider$GeofencingService
+ADDED from [io.nlopez.smartlocation:library:3.2.11] /home/anhvu/.gradle/caches/transforms-1/files-1.1/jetified-library-3.2.11.aar/9585bb5ed4a0898379029c71479d44cf/AndroidManifest.xml:22:9-24:40
+	android:exported
+		ADDED from [io.nlopez.smartlocation:library:3.2.11] /home/anhvu/.gradle/caches/transforms-1/files-1.1/jetified-library-3.2.11.aar/9585bb5ed4a0898379029c71479d44cf/AndroidManifest.xml:24:13-37
+	android:name
+		ADDED from [io.nlopez.smartlocation:library:3.2.11] /home/anhvu/.gradle/caches/transforms-1/files-1.1/jetified-library-3.2.11.aar/9585bb5ed4a0898379029c71479d44cf/AndroidManifest.xml:23:13-127
+service#io.nlopez.smartlocation.geocoding.providers.AndroidGeocodingProvider$AndroidGeocodingService
+ADDED from [io.nlopez.smartlocation:library:3.2.11] /home/anhvu/.gradle/caches/transforms-1/files-1.1/jetified-library-3.2.11.aar/9585bb5ed4a0898379029c71479d44cf/AndroidManifest.xml:25:9-27:40
+	android:exported
+		ADDED from [io.nlopez.smartlocation:library:3.2.11] /home/anhvu/.gradle/caches/transforms-1/files-1.1/jetified-library-3.2.11.aar/9585bb5ed4a0898379029c71479d44cf/AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [io.nlopez.smartlocation:library:3.2.11] /home/anhvu/.gradle/caches/transforms-1/files-1.1/jetified-library-3.2.11.aar/9585bb5ed4a0898379029c71479d44cf/AndroidManifest.xml:26:13-120

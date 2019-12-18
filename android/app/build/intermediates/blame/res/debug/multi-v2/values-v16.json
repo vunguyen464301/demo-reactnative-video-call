@@ -1,0 +1,38 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/anhvu/Documents/My Job/Namtech/demo/demo-expo/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v16/values-v16.xml",
+            "map": [
+                {
+                    "source": "/home/anhvu/.gradle/caches/transforms-1/files-1.1/core-1.1.0-rc01.aar/04f682db9e1689bcc159fd8b83912fa8/res/values-v16/values-v16.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "65",
+                        "endOffsets": "116"
+                    }
+                },
+                {
+                    "source": "/home/anhvu/.gradle/caches/transforms-1/files-1.1/appcompat-1.1.0-rc01.aar/9bc9e5568bc9706d1df717db4bb4e03a/res/values-v16/values-v16.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "5",
+                        "endColumns": "12",
+                        "endOffsets": "223"
+                    },
+                    "to": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "121",
+                        "endLines": "6",
+                        "endColumns": "12",
+                        "endOffsets": "289"
+                    }
+                }
+            ]
+        }
+    ]
+}
